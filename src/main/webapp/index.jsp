@@ -17,7 +17,7 @@ Select a file to upload: <br />
   <input type="file" name="file" size="50" />
   <br />
   <input type="submit" value="Upload File" />
-  <h1>hello-war file2</h1>
+  <h1>hello-war file rollback</h1>
 </form>
 </body>
 </html>
