@@ -41,10 +41,10 @@
             </plugin>
         </plugins>
     </build>
-    <scm>
-        <connection>scm:git:git@github.com:fuzki0/yes2.git</connection>
-        <url>scm:git:git@github.com:fuzki0/yes2.git</url>
-        <developerConnection>scm:git:git@github.com:fuzki0/yes2.git</developerConnection>
-    </scm>
+    <!--<scm>-->
+        <!--<connection>scm:git:git@github.com:fuzki0/yes2.git</connection>-->
+        <!--<url>scm:git:git@github.com:fuzki0/yes2.git</url>-->
+        <!--<developerConnection>scm:git:git@github.com:fuzki0/yes2.git</developerConnection>-->
+    <!--</scm>-->
 
 </project>
